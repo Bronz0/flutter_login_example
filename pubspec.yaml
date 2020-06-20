@@ -26,6 +26,9 @@ dependencies:
 
   # state management
   flutter_bloc: ^4.0.1
+  # override equality operator
+  equatable: ^1.2.0
+  
 
 
   # The following adds the Cupertino Icons font to your application.
